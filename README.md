@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @srividya219
 
-For Tableau Dashboard and reports  Realated work check out the link
+ # Tableau-Project-Dashboards
+
+For Tableau  Realated work check out the link
 https://public.tableau.com/app/profile/sri.vidya4321
 
 <!---
